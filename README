@@ -1,0 +1,9 @@
+Documentation is in the making...
+
+For now:
+- See in the file testSimpleXMLRPC.php for an example how to work with the client.
+- See the testServer.class.php how to implement a SimpleXMLRPC server
+- See index.php for how to work with the Server.
+
+- Logging
+- In case you want to log the xmlrpc traffic you have to fill in the logdir in the SERVER?CLIENT class for logging
